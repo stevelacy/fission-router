@@ -8,7 +8,7 @@
   "dependencies": {
     "lodash.clone": "^3.0.0",
     "object-assign": "^2.0.0",
-    "react-router": "https://github.com/contra/react-router/archive/master.tar.gz"
+    "react-router": "stevelacy/react-router"
   },
   "peerDependencies": {
     "react": "^0.13.0"
