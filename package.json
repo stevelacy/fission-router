@@ -8,7 +8,7 @@
   "dependencies": {
     "lodash.clone": "^3.0.0",
     "object-assign": "^2.0.0",
-    "react-router": "stevelacy/react-router"
+    "react-router": "^0.13.3"
   },
   "peerDependencies": {
     "react": "^0.13.0"
